@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node .",
-    "build": "echo 'Done!' "
+    "build": "npm i"
   },
   "keywords": [],
   "author": "",
