@@ -3,7 +3,7 @@ import proxyflare from "@flaregun-net/proxyflare-for-pages"
 
 
 const apiRoute: Route = {
-  from: { pattern: "https://proxyflare-reverse-proxy-example.pages.dev/redirect", alsoMatchWWWSubdomain: true },
+  from: { pattern: "https://freedom-fighter.xyz/redirect", alsoMatchWWWSubdomain: true },
   to: { url: "https://hosted-service-test.ali-dragon-swr8371.workers.dev/" },
 }
 
